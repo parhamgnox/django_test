@@ -1,2 +1,2 @@
-# django_test
- this is for test and training
+# django_1
+ 
